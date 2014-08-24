@@ -1,0 +1,22 @@
+{
+    "name": "file-container",
+    "version": "0.0.0",
+    "description": "Store different languages in one source file",
+    "author": "Andrey Sitnik <andrey@sitnik.ru>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/ai/file-container.git"
+    },
+    "devDependencies": {
+        "jshint-stylish": "0.4.0",
+        "gulp-jshint":    "1.8.4",
+        "gulp-mocha":     "1.0.0",
+        "should":         "4.0.4",
+        "mocha":          "1.21.4",
+        "gulp":           "3.8.7"
+    },
+    "scripts": {
+        "test": "gulp"
+    }
+}
