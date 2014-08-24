@@ -2,7 +2,7 @@
 
 Parser for file format to store different languages in one file:
 
-```
+```js
 $('.signup').click(function () {
     app.showSignup();
 });
