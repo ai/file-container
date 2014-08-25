@@ -1,4 +1,4 @@
-var prefix = /^[^\s]+:$/;
+var prefix = /^[^\s\t]+:$/;
 
 // Parse `text` and returb object of types inside
 module.exports = function (text) {
