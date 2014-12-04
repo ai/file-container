@@ -1,4 +1,4 @@
-# File Container [![Build Status](https://travis-ci.org/ai/file-container.png)](https://travis-ci.org/ai/file-container)
+# File Container [![Build Status](https://travis-ci.org/ai/file-container.svg)](https://travis-ci.org/ai/file-container)
 
 Parser for file format to store different languages in one file:
 
